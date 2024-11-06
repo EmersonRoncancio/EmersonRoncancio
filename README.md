@@ -19,5 +19,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,docker,postman,vscode,react,nest,ts,postgres,prisma,mongodb,tailwind,bootstrap&perline=12" />
   </a>
 </p>
+
+![mostlanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonRoncancio&hide&theme=transparent)
+
 <br>
 
