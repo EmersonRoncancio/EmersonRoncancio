@@ -23,7 +23,7 @@
 <br>
 <h2>Lenguajes mas usados</h2>
 
-![mostlanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonRoncancio&hide&theme=transparent)
+
 
 <br>
 
