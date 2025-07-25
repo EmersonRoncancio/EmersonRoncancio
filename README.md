@@ -29,3 +29,4 @@
 
 <br>
 
+<img src="https://raw.githubusercontent.com/EmersonRoncancio/EmersonRoncancio/output/snake.svg" alt="Snake animation" />
